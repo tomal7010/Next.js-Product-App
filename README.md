@@ -8,8 +8,8 @@ Users can view products publicly and add products after authentication.
 ##  Live Demo
 [Live Site Link](https://ass10-one.vercel.app/)  
 
-## 📂 GitHub Repository
-[GitHub Repo Link](https://github.com/your-username/nextjs-product-app)  
+##  GitHub Repository
+[GitHub Repo Link](https://github.com/tomal7010/Next.js-Product-App?tab=readme-ov-file)  
 
 ---
 

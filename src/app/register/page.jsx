@@ -28,7 +28,7 @@ export default function RegisterPage() {
       //  redirect to /login
       router.push("/login");
     } else {
-      // ❌ error alert
+      //  error alert
       Swal.fire({
         icon: "error",
         title: "Oops...",

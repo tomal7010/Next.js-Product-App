@@ -1,7 +1,7 @@
 import dbConnect from "@/lib/dbConnect";
 import Link from "next/link";
 
-export const dynamic = "force-dynamic"; // 👈 সবসময় fresh render হবে
+export const dynamic = "force-dynamic"; 
 
 export default async function ProductsPage() {
   const collection = await dbConnect("products");
